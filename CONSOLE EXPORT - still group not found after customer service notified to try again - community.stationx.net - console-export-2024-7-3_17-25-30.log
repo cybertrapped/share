@@ -1,0 +1,447 @@
+17:19:12.723 Navigated to https://community.stationx.net/messages/76b5cd36-c1cf-4322-b743-717da77be702
+17:19:13.335 GET
+https://community.stationx.net/messages/76b5cd36-c1cf-4322-b743-717da77be702
+[HTTP/2 302  256ms]
+
+17:19:13.852 GET
+https://community.stationx.net/messages
+[HTTP/2 200  220ms]
+
+17:19:18.176 Loading failed for the <script> with source “https://rum-static.pingdom.net/pa-5ddb80049623b000080008be.js”. messages:50:77
+17:19:18.177 GET
+https://rum-static.pingdom.net/pa-5ddb80049623b000080008be.js
+Blocked By Extension
+
+17:19:19.190 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015. (Reason: CORS request did not succeed). Status code: (null).
+17:19:19.190 None of the “sha512” hashes in the integrity attribute match the content of the subresource. The computed hash is “z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==”. messages
+17:19:19.191 GET
+https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Blocked By Extension
+
+17:19:19.616 GET
+https://community.stationx.net/packs/js/runtime-ec196c6e9fec740e6ca9.js
+[HTTP/2 200  62ms]
+
+17:19:19.648 GET
+https://community.stationx.net/packs/js/589-61f2fe56c84e39b4567f.js
+[HTTP/2 200  62ms]
+
+17:19:19.679 GET
+https://community.stationx.net/packs/js/7762-95ffb9c1a0b290eaeb19.js
+[HTTP/2 200  62ms]
+
+17:19:19.711 GET
+https://community.stationx.net/packs/js/3530-edb6501430466fc58e67.js
+[HTTP/2 200  78ms]
+
+17:19:19.758 GET
+https://community.stationx.net/packs/js/2837-00b4119cc3647d7ea08e.js
+[HTTP/2 200  62ms]
+
+17:19:19.789 GET
+https://community.stationx.net/packs/js/7686-9793911ab33e7ad0d573.js
+[HTTP/2 200  62ms]
+
+17:19:19.978 GET
+https://community.stationx.net/packs/js/9541-d8ccfdc990c2c268ea0f.js
+[HTTP/2 200  72ms]
+
+17:19:20.012 GET
+https://community.stationx.net/packs/js/3041-3a89d108d13732b79c11.js
+[HTTP/2 200  41ms]
+
+17:19:20.025 GET
+https://community.stationx.net/packs/js/4-d0677ed632a7afbd67d7.js
+[HTTP/2 200  48ms]
+
+17:19:20.056 GET
+https://community.stationx.net/packs/js/2873-8bf0dc3f6669ab2a4294.js
+[HTTP/2 200  48ms]
+
+17:19:20.088 GET
+https://community.stationx.net/packs/js/2429-04d7850f40acdc6c2a21.js
+[HTTP/2 200  38ms]
+
+17:19:20.119 GET
+https://community.stationx.net/packs/js/3316-05a4a5f6a5636118c73b.js
+[HTTP/2 200  38ms]
+
+17:19:20.245 GET
+https://community.stationx.net/packs/js/1443-4941b58f65d57919bfe6.js
+[HTTP/2 200  31ms]
+
+17:19:20.291 GET
+https://community.stationx.net/packs/js/4476-07b55c256d67befd197b.js
+[HTTP/2 200  47ms]
+
+17:19:20.312 GET
+https://community.stationx.net/packs/js/5591-d43f91e723d67d86c182.js
+[HTTP/2 200  63ms]
+
+17:19:20.312 GET
+https://community.stationx.net/packs/js/3739-c25b5fce7b037abe9c66.js
+[HTTP/2 200  31ms]
+
+17:19:20.356 GET
+https://community.stationx.net/packs/js/5314-a1975258a42967ffbb15.js
+[HTTP/2 200  31ms]
+
+17:19:20.387 GET
+https://community.stationx.net/packs/js/8838-97488139fbeb60bb7808.js
+[HTTP/2 200  47ms]
+
+17:19:20.482 GET
+https://community.stationx.net/packs/js/5961-36c07864627c536527cd.js
+[HTTP/2 200  16ms]
+
+17:19:20.482 GET
+https://community.stationx.net/packs/js/4593-1a1c33fe94e8b1e459f0.js
+[HTTP/2 200  16ms]
+
+17:19:20.482 GET
+https://community.stationx.net/packs/js/4061-f32ff13d63dbc714c516.js
+[HTTP/2 200  11ms]
+
+17:19:20.513 GET
+https://community.stationx.net/packs/js/4040-e5b1b70fc64ceb7f38c3.js
+[HTTP/2 200  26ms]
+
+17:19:20.544 GET
+https://community.stationx.net/packs/js/1956-91b96faa650020c3d4c4.js
+[HTTP/2 200  32ms]
+
+17:19:20.544 GET
+https://community.stationx.net/packs/js/1356-2da83b6d7f5374ad3ccf.js
+[HTTP/2 200  47ms]
+
+17:19:20.591 GET
+https://community.stationx.net/packs/js/5711-80dc3d2441af769cafd8.js
+[HTTP/2 200  32ms]
+
+17:19:20.591 GET
+https://community.stationx.net/packs/js/5363-9b93327660f1eece97a2.js
+[HTTP/2 200  32ms]
+
+17:19:20.717 GET
+https://community.stationx.net/packs/js/8535-959ed32ea02706cfd94e.js
+[HTTP/2 200  47ms]
+
+17:19:20.748 GET
+https://community.stationx.net/packs/js/9388-8bbbc43d1ef6d9575a0a.js
+[HTTP/2 200  47ms]
+
+17:19:20.748 GET
+https://community.stationx.net/packs/js/6674-aeead1b09d90833415f6.js
+[HTTP/2 200  47ms]
+
+17:19:20.813 GET
+https://community.stationx.net/packs/js/7392-4ccbf5ba1e82dcb0c140.js
+[HTTP/2 200  32ms]
+
+17:19:20.858 GET
+https://community.stationx.net/packs/js/1574-f94cbbc94114c0995bde.js
+[HTTP/2 200  63ms]
+
+17:19:20.889 GET
+https://community.stationx.net/packs/js/8286-4fe1a355fb52e29b0ed1.js
+[HTTP/2 200  52ms]
+
+17:19:20.889 GET
+https://community.stationx.net/packs/js/3459-8bdf473e9eb2eb064eb4.js
+[HTTP/2 200  21ms]
+
+17:19:20.921 GET
+https://community.stationx.net/packs/js/7209-3f72de1b9c24746659a6.js
+[HTTP/2 200  21ms]
+
+17:19:21.015 GET
+https://community.stationx.net/packs/js/5735-0f65501ea709d967b53b.js
+[HTTP/2 200  46ms]
+
+17:19:21.046 GET
+https://community.stationx.net/packs/js/6106-d0ff860a642a4a1d0750.js
+[HTTP/2 200  46ms]
+
+17:19:21.077 GET
+https://community.stationx.net/packs/js/6319-7f2569612b6f33036812.js
+[HTTP/2 200  46ms]
+
+17:19:21.077 GET
+https://community.stationx.net/packs/js/4403-ec2b14cfaea33305b4a6.js
+[HTTP/2 200  46ms]
+
+17:19:21.118 GET
+https://community.stationx.net/packs/js/7634-78c2d77b2eea137a13b7.js
+[HTTP/2 200  46ms]
+
+17:19:21.250 GET
+https://community.stationx.net/packs/js/2182-1b79bca4c9ca25365e38.js
+[HTTP/2 200  32ms]
+
+17:19:21.282 GET
+https://community.stationx.net/packs/js/1638-ce5e110cb02a528a2b07.js
+[HTTP/2 200  34ms]
+
+17:19:21.282 GET
+https://community.stationx.net/packs/js/7980-753ff94936aa81a5541c.js
+[HTTP/2 200  34ms]
+
+17:19:21.314 GET
+https://community.stationx.net/packs/js/7411-fb63e7d3fdc07f47ec2e.js
+[HTTP/2 200  48ms]
+
+17:19:21.314 GET
+https://community.stationx.net/packs/js/application-6052015e536eed79e18b.js
+[HTTP/2 200  34ms]
+
+17:19:21.616 GET
+https://js.partnerstack.com/v1/
+Blocked By Extension
+
+17:19:21.616 Loading failed for the <script> with source “https://js.partnerstack.com/v1/”. messages:1:1
+17:19:24.726 GET
+https://platform.twitter.com/widgets.js
+Socialtracking
+
+17:19:24.727 The resource at “<URL>” was blocked because content blocking is enabled. 2
+17:19:24.894 GET
+https://cdn.embedly.com/widgets/platform.js
+[HTTP/1.1 200 OK 1900ms]
+
+17:19:24.894 GET
+https://rsms.me/inter/inter.css
+[HTTP/3 200  32ms]
+
+17:19:24.894 GET
+https://www.stationx.net/wp-content/uploads/2022/02/StationX-white-logo.svg
+[HTTP/2 200  1994ms]
+
+17:19:24.907 GET
+https://platform.instagram.com/en_US/embeds.js
+Socialtracking
+
+17:19:24.941 GET
+https://www.stationx.net/wp-content/uploads/2024/02/stnx-arrow.png
+[HTTP/2 200  1985ms]
+
+17:19:24.941 GET
+https://www.stationx.net/wp-content/uploads/2024/02/arrow-blue.png
+[HTTP/2 200  1985ms]
+
+17:19:24.941 GET
+https://www.stationx.net/wp-content/uploads/2024/02/stnx-search.png
+[HTTP/2 200  1985ms]
+
+17:19:24.941 GET
+https://www.stationx.net/wp-content/uploads/2024/02/stnx-mega-menu-personal-roadmap.png
+[HTTP/2 200  1985ms]
+
+17:19:24.941 GET
+https://www.stationx.net/wp-content/uploads/2024/02/stnx-mega-menu-membership-tour.png
+[HTTP/2 200  1985ms]
+
+17:19:24.956 GET
+https://www.stationx.net/wp-content/uploads/2024/02/stnx-mega-menu-tech-questions.png
+[HTTP/2 200  1995ms]
+
+17:19:24.956 GET
+https://www.stationx.net/wp-content/uploads/2024/02/stnx-mega-menu-career-questions.png
+[HTTP/2 200  1970ms]
+
+17:19:24.956 GET
+https://www.stationx.net/wp-content/uploads/2024/02/stnx-mega-menu-support-questions.png
+[HTTP/2 200  1979ms]
+
+17:19:24.988 GET
+https://community.stationx.net/packs/css/styles-db18d247.css
+[HTTP/2 200  17ms]
+
+17:19:25.640 Facebook SDK is being shimmed by Firefox. See https://bugzilla.mozilla.org/show_bug.cgi?id=1226498 for details. shim_messaging_helper.js:23:15
+17:19:30.495 [DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`. index.mjs:32:12
+17:19:30.590 [bugsnag] Loaded! bugsnag.js:3616:20
+17:19:30.608 You are loading Turbolinks from a <script> element inside the <body> element. This is probably not what you meant to do!
+
+Load your application’s JavaScript bundle inside the <head> element instead. <script> elements in <body> are evaluated with each page change.
+
+For more information, see: https://github.com/turbolinks/turbolinks#working-with-script-elements
+
+——
+Suppress this warning by adding a `data-turbolinks-suppress-warning` attribute to: <script src="/packs/js/application-6052015e536eed79e18b.js" data-turbolinks-track="reload"></script> bugsnag.js:2610:15
+17:19:35.445 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://sessions.bugsnag.com/. (Reason: CORS request did not succeed). Status code: (null).
+17:19:35.478 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://sessions.bugsnag.com/. (Reason: CORS request did not succeed). Status code: (null).
+17:19:35.545 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015. (Reason: CORS request did not succeed). Status code: (null).
+17:19:35.545 None of the “sha512” hashes in the integrity attribute match the content of the subresource. The computed hash is “z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==”. messages
+17:19:35.546 GET
+https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Blocked By Extension
+
+17:19:35.656 Cookie “browser_time_zone” does not have a proper “SameSite” attribute value. Soon, cookies without the “SameSite” attribute or with an invalid value will be treated as “Lax”. This means that the cookie will no longer be sent in third-party contexts. If your application depends on this cookie being available in such contexts, please add the “SameSite=None“ attribute to it. To know more about the “SameSite“ attribute, read https://developer.mozilla.org/docs/Web/HTTP/Headers/Set-Cookie/SameSite 5363-9b93327660f1eece97a2.js:2:11590
+17:19:37.256 GET
+https://community.stationx.net/packs/js/8783-c2adc7b9363a64d3fe40.chunk.js
+[HTTP/2 200  38ms]
+
+17:19:38.717 GET
+https://js.stripe.com/v3/
+[HTTP/2 200  1178ms]
+
+17:19:41.026 XHRGET
+https://community.stationx.net/internal_api/support_widget/conversations/check?
+[HTTP/2 401  210ms]
+
+17:19:41.089 GET
+https://community.stationx.net/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTDVEN3dJPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--287664f33db4b125532aa7470b63cd9f548d5487/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ0xBRnBBaXdCT2dwellYWmxjbnNHT2dwemRISnBjRlE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ef295ed08e817a599d692fd6d8761673d3ed547f/aac17f9f68ca3d174d1c219d8782dcb9
+[HTTP/2 302  115ms]
+
+17:19:41.214 GET
+https://community.stationx.net/cdn-cgi/challenge-platform/scripts/jsd/main.js
+[HTTP/2 302  25ms]
+
+17:19:42.833 GET
+https://community.stationx.net/packs/js/718-0cea0686dff3c834ed52.chunk.js
+[HTTP/2 200  50ms]
+
+17:19:43.904 Error: You cannot perform this action.
+    u 2182-1b79bca4c9ca25365e38.js:1
+    n 2182-1b79bca4c9ca25365e38.js:1
+    i 2182-1b79bca4c9ca25365e38.js:1
+    r CustomErrors.tsx:25
+    t backendRequestHelpers.ts:39
+    Babel 3
+    v 2182-1b79bca4c9ca25365e38.js:1
+    i 2182-1b79bca4c9ca25365e38.js:1
+    promise callback*v 2182-1b79bca4c9ca25365e38.js:1
+    i 2182-1b79bca4c9ca25365e38.js:1
+    f 2182-1b79bca4c9ca25365e38.js:1
+    f 2182-1b79bca4c9ca25365e38.js:1
+    b backendRequestHelpers.ts:17
+    t backendRequestHelpers.ts:72
+    Babel 3
+    v 2182-1b79bca4c9ca25365e38.js:1
+    i 2182-1b79bca4c9ca25365e38.js:1
+    promise callback*v 2182-1b79bca4c9ca25365e38.js:1
+    i 2182-1b79bca4c9ca25365e38.js:1
+    f 2182-1b79bca4c9ca25365e38.js:1
+    f 2182-1b79bca4c9ca25365e38.js:1
+    g backendRequestHelpers.ts:48
+    h backendRequestHelpers.ts:99
+    checkConversations supportWidgetApi.js:62
+    s queries.js:72
+    fetchFn query.js:298
+    c retryer.js:95
+    l retryer.js:156
+    fetch query.js:330
+    executeFetch queryObserver.js:199
+    onSubscribe queryObserver.js:40
+    subscribe subscribable.js:16
+    _ useBaseQuery.js:60
+    React 2
+    unstable_runWithPriority scheduler.production.min.js:19
+    React 9
+    value react_mount_controller.js:117
+    connect context.js:21
+bugsnag.js:2610:15
+17:19:45.236 GET
+https://assets.circle.so/farfbaxhz392808e2shtz2grdnwo?=3574657673972722484
+[HTTP/2 200  417ms]
+
+17:19:45.236 GET
+https://assets.circle.so/farfbaxhz392808e2shtz2grdnwo?=3574657673972722484
+[HTTP/2 200  397ms]
+
+17:19:45.347 GET
+https://community.stationx.net/cdn-cgi/challenge-platform/h/g/scripts/jsd/d2a97f6b6ec9/main.js?
+[HTTP/2 200  43ms]
+
+17:19:46.931 GET
+https://assets-v2.circle.so/1f0s1rojgxjq5isllvt58n9t12zt
+[HTTP/2 200  173ms]
+
+17:19:47.508 Cookie “__cf_bm” will soon be rejected because it is foreign and does not have the “Partitioned“ attribute. 4 farfbaxhz392808e2shtz2grdnwo
+17:19:49.047 Cookie “__cf_bm” will soon be rejected because it is foreign and does not have the “Partitioned“ attribute. 2 1f0s1rojgxjq5isllvt58n9t12zt
+17:19:53.026 GET
+https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https://community.stationx.net/messages&title=StationX Cyber Security Community&referrer=&muid=ea5e6ce8-9485-4fa4-88cf-088b41d820020e36cf&sid=NA&version=6&preview=false
+[HTTP/2 200  48ms]
+
+17:19:56.538 Request to access cookie or storage on “https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fcommunity.stationx.net%2Fmessages&title=StationX%20Cyber%20Security%20Community&referrer=&muid=ea5e6ce8-9485-4fa4-88cf-088b41d820020e36cf&sid=NA&version=6&preview=false” was blocked because it came from a tracker and content blocking is enabled.
+17:19:58.261 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://sessions.bugsnag.com/. (Reason: CORS request did not succeed). Status code: (null).
+17:19:58.540 GET
+https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzRwSVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--79e5a310e2834fcb24d8ca99577daf815da9bcba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJc0FXa0NMQUU2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--67365f61f655fbc86c65a51f2e9992ab818c41cd/mypic.jpg
+[HTTP/2 302  141ms]
+
+17:19:58.540 GET
+https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0VlSVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1d4d1589e60573ac220e759e321dc2bad8ebc10f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJc0FXa0NMQUU2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--86d5a93b1fb9d9a40ce4e61c041294c46ab790a5/nathan-orange.png
+[HTTP/2 302  157ms]
+
+17:19:59.670 GET
+https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js
+[HTTP/2 200  63ms]
+
+17:20:03.112 GET
+https://assets.circle.so/dpxqrh5r7cb4ruhyo5t0ycb44ehy
+[HTTP/2 200  94ms]
+
+17:20:03.112 GET
+https://assets.circle.so/z4msq0acvnbldrduhehk1epvk5na
+[HTTP/2 200  71ms]
+
+17:20:03.128 GET
+https://m.stripe.network/inner.html#url=https://community.stationx.net/messages&title=StationX Cyber Security Community&referrer=&muid=ea5e6ce8-9485-4fa4-88cf-088b41d820020e36cf&sid=NA&version=6&preview=false
+[HTTP/2 200  659ms]
+
+17:20:04.509 GET
+https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTDVEN3dJPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--287664f33db4b125532aa7470b63cd9f548d5487/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ0xBRnBBaXdCT2dwellYWmxjbnNHT2dwemRISnBjRlE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ef295ed08e817a599d692fd6d8761673d3ed547f/aac17f9f68ca3d174d1c219d8782dcb9
+[HTTP/2 302  47ms]
+
+17:20:05.480 Partitioned cookie or storage access was provided to “https://m.stripe.network/inner.html#url=https%3A%2F%2Fcommunity.stationx.net%2Fmessages&title=StationX%20Cyber%20Security%20Community&referrer=&muid=ea5e6ce8-9485-4fa4-88cf-088b41d820020e36cf&sid=NA&version=6&preview=false” because it is loaded in the third-party context and dynamic state partitioning is enabled.
+17:20:07.228 GET
+https://m.stripe.network/out-4.5.43.js
+[HTTP/2 200  63ms]
+
+17:20:07.416 GET
+https://assets-v2.circle.so/1f0s1rojgxjq5isllvt58n9t12zt
+[HTTP/2 200  47ms]
+
+17:20:07.463 GET
+https://community.stationx.net/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzRwSVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--79e5a310e2834fcb24d8ca99577daf815da9bcba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJc0FXa0NMQUU2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--67365f61f655fbc86c65a51f2e9992ab818c41cd/mypic.jpg
+[HTTP/2 302  16ms]
+
+17:20:07.644 Request for font "Arial Rounded MT" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.644 Request for font "Book Antiqua" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.644 Request for font "Bookman Old Style" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.647 Request for font "Century Gothic" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.647 Request for font "Century Schoolbook" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.647 Request for font "Century" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.649 Request for font "Garamond" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.651 Request for font "Lucida Fax" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.651 Request for font "Lucida Handwriting" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.651 Request for font "Lucida Sans Typewriter" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.652 Request for font "Lucida Sans" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.654 Request for font "MS Outlook" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.656 Request for font "MS Reference Sans Serif" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.657 Request for font "Monotype Corsiva" blocked at visibility level 2 (requires 3)
+out-4.5.43.js:1:52984
+17:20:07.840 GET
+https://assets.circle.so/farfbaxhz392808e2shtz2grdnwo?=149147387610366360
+[HTTP/2 200  47ms]
+
+17:20:09.788 GET
+https://assets.circle.so/dpxqrh5r7cb4ruhyo5t0ycb44ehy
+[HTTP/2 200  63ms]
+
+17:20:12.223 Request to access cookie or storage on “https://m.stripe.com/6” was blocked because it came from a tracker and content blocking is enabled.
+17:25:27.105 Source map error: Error: URL constructor:  is not a valid URL.
+Resource URL: wasm:https://community.stationx.net/packs/js/5591-d43f91e723d67d86c182.js%20line%201%20%3E%20WebAssembly.Module
+Source Map URL: null
